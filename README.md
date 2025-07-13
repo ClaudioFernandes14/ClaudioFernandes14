@@ -1,7 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Cláudio! <br/><a href="https://github.com/ClaudioFernandes14">Junior Developer</a>, 
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>BetterWay</b>
+  - [E-Commerce in Laravel](https://github.com/ClaudioFernandes14/BetterWay)
+
+    
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!--[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+
+
+<!-- [instagram]: https://www.instagram.com/joshmadakor/ -->
+[linkedin]: www.linkedin.com/in/cláudio-fernandes-917a92230
 
 <!--
-**ClaudioFernandes14/ClaudioFernandes14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
