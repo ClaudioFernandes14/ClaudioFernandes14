@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cláudio! <br/><a href="https://github.com/ClaudioFernandes14">Junior Developer</a>, 
+<h1>Hi, I'm Cláudio! <br/><a href="https://github.com/ClaudioFernandes14">Junior Developer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
