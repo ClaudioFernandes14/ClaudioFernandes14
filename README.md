@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>MyPortfolio</b>
+  - https://claudiofernandes14.github.io/myPortfolio/index.html
+
 - <b>BetterWay</b>
   - [E-Commerce in Laravel](https://github.com/ClaudioFernandes14/BetterWay)
 
