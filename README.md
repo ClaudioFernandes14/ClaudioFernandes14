@@ -74,7 +74,7 @@ My personal portfolio website showcasing my projects and software development ex
 
 ### Tools
 
-`Git` `GitHub` `Composer` `Visual Studio` `VS Code` `XAMPP`
+`Git` `GitHub` `Composer` `Visual Studio` `VS Code` `XAMPP` `Docker`
 
 ### Other
 
